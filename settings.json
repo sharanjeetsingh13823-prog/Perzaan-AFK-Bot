@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "example.aternos.me",
-    "port": 92591,
+    "ip": "_HardCoreSMP.aternos.me:22507",
+    "port": 22507,
     "version": "1.21.1"
   },
   "position": {
